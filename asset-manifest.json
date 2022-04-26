@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-fact-website-part-2/static/css/main.aa453868.css",
+    "main.css": "/react-fact-website-part-2/static/css/main.afd80967.css",
     "main.js": "/react-fact-website-part-2/static/js/main.94965997.js",
     "index.html": "/react-fact-website-part-2/index.html",
-    "main.aa453868.css.map": "/react-fact-website-part-2/static/css/main.aa453868.css.map",
+    "main.afd80967.css.map": "/react-fact-website-part-2/static/css/main.afd80967.css.map",
     "main.94965997.js.map": "/react-fact-website-part-2/static/js/main.94965997.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa453868.css",
+    "static/css/main.afd80967.css",
     "static/js/main.94965997.js"
   ]
 }
